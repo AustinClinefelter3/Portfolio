@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'AustinClinefelter3', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,9 +11,9 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -24,13 +24,13 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://github.com/AustinClinefelter3/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'Clinefeltera22@students.ecu.edu',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://studentsecuedu66932-my.sharepoint.com/:w:/r/personal/clinefeltera22_students_ecu_edu/Documents/AustinClinefelter%20resume.docx?d=w44b1b78d4bb7434082022c03eff6f488&csf=1&web=1&e=VkJa8X', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
