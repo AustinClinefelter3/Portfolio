@@ -117,7 +117,7 @@ const config = {
       description:
         'Cakes by Becky Presentation of Network Analysis.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://studentsecuedu66932-my.sharepoint.com/:p:/r/personal/clinefeltera22_students_ecu_edu/Documents/Group%201%20MIS%204123%20Team%20Presentation%20Naration%20Final.pptx?d=w8bebf3acfad44aeba16060f65ac6b70f&csf=1&web=1&e=lMXcJf',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
