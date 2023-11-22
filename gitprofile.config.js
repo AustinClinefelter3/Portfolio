@@ -82,14 +82,14 @@ const config = {
       description:
         'Response Playbook for to a Security Audit at XYZ Financial..',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://studentsecuedu66932-my.sharepoint.com/:w:/r/personal/clinefeltera22_students_ecu_edu/Documents/XYZ%20Financial%20Risk%20Assessment%202.docx?d=w835cf779c0cd42588ad5e9752bf46c72&csf=1&web=1&e=4d9qvM',
     },
         {
       title: 'Security Incident',
       description:
         'Response Playbook for to a Security Incident at XYZ Financial.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://studentsecuedu66932-my.sharepoint.com/:w:/r/personal/clinefeltera22_students_ecu_edu/Documents/XYZ%20Financial%20Incident%20Report.docx?d=w40def3342a3344b787edf00bb01fd053&csf=1&web=1&e=qqp8zo',
     },
             {
       title: 'Linux',
