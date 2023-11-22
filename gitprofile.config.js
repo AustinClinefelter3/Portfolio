@@ -33,35 +33,16 @@ const config = {
       'https://studentsecuedu66932-my.sharepoint.com/:w:/r/personal/clinefeltera22_students_ecu_edu/Documents/AustinClinefelter%20resume.docx?d=w44b1b78d4bb7434082022c03eff6f488&csf=1&web=1&e=VkJa8X', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'East Carolina University',
+      position: 'Pirate Tech',
+      from: 'September 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.ecu.edu',
     },
   ],
   /* certifications: [
@@ -74,32 +55,67 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Management Information Systems',
+      from: '2022',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Martin Community College',
+      degree: 'Associate of Arts and Sciences',
+      from: '2018',
+      to: '2022',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Professional Statement',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'My Professional Statement.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Security Audit',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Response Playbook for to a Security Audit at XYZ Financial..',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+        {
+      title: 'Security Incident',
+      description:
+        'Response Playbook for to a Security Incident at XYZ Financial.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+            {
+      title: 'Linux',
+      description:
+        'Examples of using Linux.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+            {
+      title: 'Home Network & Heat Map',
+      description:
+        'My Home Network Analysis and Diagram with a Heat Map signature of my Network capabilities.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+            {
+      title: 'Final Project Report',
+      description:
+        'Cakes by Becky report of Network Analysis.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+            {
+      title: 'Final Project Presentation',
+      description:
+        'Cakes by Becky Presentation of Network Analysis.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
