@@ -12,20 +12,10 @@ const config = {
   },
   social: {
     linkedin: '',
-    twitter: '',
-    mastodon: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
+    twitter: 'Austin_Clinefelter',
+    instagram: 'Austin_Clinefelter',
+    telegram: 'Austin_Clinefelter',
     website: 'https://github.com/AustinClinefelter3/',
-    phone: '',
     email: 'Clinefeltera22@students.ecu.edu',
   },
   resume: {
